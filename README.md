@@ -52,6 +52,7 @@ My main focus is **Java backend development**. I have experience building REST A
 ## 📫 Contact
 
 * GitHub: [https://github.com/your-username](https://github.com/ErwinWinter)
+* Instagram: [https://www.instagram.com/erwin_syarif03/](https://www.instagram.com/erwin_syarif03/)
 
 ⭐ *Actively learning and preparing for professional internship opportunities.*
 
@@ -113,5 +114,6 @@ My main focus is **Java backend development**. I have experience building REST A
 ## 📫 連絡先
 
 * GitHub: [https://github.com/your-username](https://github.com/ErwinWinter)
+* * Instagram: [https://www.instagram.com/erwin_syarif03/](https://www.instagram.com/erwin_syarif03/)
 
 ⭐ *インターンシップに向けて成長中の大学生エンジニア*
