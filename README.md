@@ -51,6 +51,7 @@ My main focus is **Java backend development**. I have experience building REST A
 
 ## 📫 Contact
 
+* Email: erwinsyarifhidayah@gmail.com
 * GitHub: [https://github.com/your-username](https://github.com/ErwinWinter)
 * Instagram: [https://www.instagram.com/erwin_syarif03/](https://www.instagram.com/erwin_syarif03/)
 
@@ -113,6 +114,7 @@ My main focus is **Java backend development**. I have experience building REST A
 
 ## 📫 連絡先
 
+* Email: erwinsyarifhidayah@gmail.com
 * GitHub: [https://github.com/your-username](https://github.com/ErwinWinter)
 * * Instagram: [https://www.instagram.com/erwin_syarif03/](https://www.instagram.com/erwin_syarif03/)
 
